@@ -10,8 +10,9 @@ Steps for Twitter App:
 4. Key-in the Sentiment Analysis String into the Program 
 
 API Pre-requisite :
-1. Tweepy : pip install tweepy
-2. TextBlob : pip install textblob 
+1. Tweepy : pip install tweepy or conda install -c conda-forge tweepy
+2. TextBlob : pip install textblob  or conda install -c conda-forge textblob 
+                                       conda install -c conda-forge/label/gcc7 textblob
 
 What is TextBlob?
 
